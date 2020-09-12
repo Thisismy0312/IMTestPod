@@ -1,0 +1,6 @@
+framework module IMTestPod {
+  umbrella header "IMTestPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

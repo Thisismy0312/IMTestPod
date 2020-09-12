@@ -1,0 +1,16 @@
+PODS:
+  - IMTestPod (0.1.0)
+
+DEPENDENCIES:
+  - IMTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  IMTestPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IMTestPod: e1fcbf787bbc04f852bc4634cdadde09e8c51a78
+
+PODFILE CHECKSUM: 572065935462a3d5b385e0d84c29ae9aba627568
+
+COCOAPODS: 1.9.1
